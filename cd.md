@@ -23,11 +23,11 @@
 
 ###Soft Skills
 
-* Communicative
-* Organized
-* Adaptable
-* Diligent
-* Disciplined
+    * Communicative
+    * Organized
+    * Adaptable
+    * Diligent
+    * Disciplined
 
 ###Code Example
 
