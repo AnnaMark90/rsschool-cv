@@ -1,19 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300..800&display=swap');
 
-body{
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Open Sans", sans-serif;
     font-style: normal;
     background-color: #a8b4bf;
-    /* color: ; */
+    color:#3a3a3a ;
+    overflow-x: hidden;
 }
 
-ul{ 
+ul { 
     list-style-type:none;
 }
 
-a{
+a {
     text-decoration: none;
+}
+
+section {
+    padding: 2%;
+}
+
+.container {
+    margin: 5%;
+}
+
+.title_img {
+    width: 350px;
+}
+
+.hard_skills_inf img{
+    width: 50px;
+}
+
+.hard_skills_inf {
+    display: flex;
+    align-items: center;
+}
+
+.soft_skills_inf, .lang_inf, .hard_skills_inf img {
+    padding: 1%;
+}
+
+.ed_text_content {
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
